@@ -99,7 +99,6 @@ steps:
             stepname:
               default: "nested_second"
             inputfile: inputfile
-            data: nested_first/result
             sleeptime: sleeptime
             outputfile:
               default: results/nested.txt
